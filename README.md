@@ -2,6 +2,7 @@
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
+https://mosgizy.github.io/QR-Code-Component/
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
